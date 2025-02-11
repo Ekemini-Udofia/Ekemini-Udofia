@@ -8,11 +8,11 @@ My toolkit includes C++, Python, Git, and various microcontroller architectures 
 
 ## I'm currently working on these projects:
 - Tic-tac-toe: A GUI windows Tictactoe app to play online against friends.
-- Check it out at https://github.com/Ekemini-Udofia/Tic-tac-toe !
+- Check it out at [Windows Tic-tac-toe Project](https://github.com/Ekemini-Udofia/Tic-tac-toe) !
 
 Beyond this, I'm continuously expanding my knowledge by exploring the Internet of Things(IoT) and embedded linux.
 
 If you find my work intriguing or share similar interests in embedded systems, Linux, or C++, I'd be thrilled to connect. Leave a ⭐ if you appreciate what you see!
 
 - Looking to connect?
-  https://linktr.ee/ekeminieudofia 
+  [Other Platforms](https://linktr.ee/ekeminieudofia)
