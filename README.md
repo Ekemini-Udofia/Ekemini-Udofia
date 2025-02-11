@@ -1,18 +1,18 @@
-## Hi there 👋
+# **Hi there** 👋
 
-- 🔭 I’m currently working on a GUI windows Tic-tac-toe app.
+
+I'm Ekemini.
+I build __Embedded Systems__. I'm driven by a passion for bringing hardware to life through software and a fascination with the challenges of resource-constrained environments.
+
+My toolkit includes C, C++, Python, Git, and various microcontroller architectures (e.g., ARM Cortex-M, AVR). 
+
+## I'm currently working on these projects:
+- Tic-tac-toe: A GUI windows Tictactoe app to play online against friends.
 - Check it out at https://github.com/Ekemini-Udofia/Tic-tac-toe !
-<!--
-**Ekemini-Udofia/Ekemini-Udofia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Beyond this, I'm continuously expanding my knowledge by exploring the intricacies of the Internet of Things(IoT), and embedded linux.
 
- ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find my work intriguing or share similar interests in embedded systems, Linux, or C++, I'd be thrilled to connect. Leave a ⭐ if you appreciate what you see!
+
+- Looking to connect?
+  https://linktr.ee/ekeminieudofia 
