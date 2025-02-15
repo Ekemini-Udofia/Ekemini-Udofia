@@ -7,8 +7,8 @@ I build and develop __Embedded Systems__. I'm driven by a passion for bringing h
 My toolkit includes C++, Python, Git, and various microcontroller architectures (e.g., ARM Cortex-M, AVR). 
 
 ## Projects I'm currently working on:
-- Tic-tac-toe: A GUI windows Tictactoe app to play online against friends.
-- Check it out at https://github.com/Ekemini-Udofia/Tic-tac-toe !
+- Tic-tac-toe: A GUI windows Tictactoe app to play online against friends - https://github.com/Ekemini-Udofia/Tic-tac-toe
+- An Automated Home Server using an ESP32. Features a remote website to display the data - https://github.com/Ekemini-Udofia/Home-Automated-Data-Server
 
 Beyond this, I'm continuously expanding my knowledge by exploring the Internet of Things(IoT) and embedded linux.
 
