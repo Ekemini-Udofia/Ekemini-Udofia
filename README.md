@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Ekemini-Udofia&color=green)
+
 # **Hi there** 👋
 
 I'm Ekemini.  
