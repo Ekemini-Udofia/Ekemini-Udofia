@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Ekemini-Udofia&color=green)
+`![](https://komarev.com/ghpvc/?username=Ekemini-Udofia&color=green)`
 
 # **Hi there** 👋
 
